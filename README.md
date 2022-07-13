@@ -13,7 +13,7 @@ HOW TO RUN
 
 ![Post](https://user-images.githubusercontent.com/73158508/178813258-29b935a2-8e4a-4806-b143-3cc6482d225c.PNG)
 
-- Finally, If you want to list product and add project follow below screenshot after copy your token.
+- Finally, If you want to list productS and add product follow below screenshot after copy your token.
 
 - Paste Token here
 

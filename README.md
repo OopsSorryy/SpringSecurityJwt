@@ -3,7 +3,7 @@ HOW TO RUN
 
 
 - First of all, You must have JDK 17, PostgreSQL and Postman on your computer and you must create database Postgres named security.
-- Secondly, When you open project please first You must write Postgres' password and Postgres' username on application.properties. Secondly run testCreateRoles method on RoleRepositoryTests.class and thirdly run testCreateUser method on UserRepositoryTests.class and lastly run testAssignRoleToUser method UserRepositoryTests.class.
+- Secondly, When you open project please first You must write Postgres' password and Postgres' username on application.properties. Secondly run testCreateRoles method on RoleRepositoryTests.class and thirdly run testCreateUser method on UserRepositoryTests.class and lastly run testAssignRoleToUser method on UserRepositoryTests.class.
 - Also, You must run SpringSecurityApplication.class and project ready to use. 
 - After that, You must open Postman, create POST method, write localhost:8080/auth/login and select body part create JSON object 
      {

@@ -10,7 +10,6 @@ HOW TO RUN
       "email" : "muslera1@gmail.com",
       "password": "muslera261"
      }
--
 
 ![Post](https://user-images.githubusercontent.com/73158508/178813258-29b935a2-8e4a-4806-b143-3cc6482d225c.PNG)
 

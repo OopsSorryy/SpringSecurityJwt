@@ -1,6 +1,6 @@
 # SpringSecurityJwt
 
-###HOW TO RUN
+#HOW TO RUN
 
 - First of all, You must have JDK 17, PostgreSQL and Postman on your computer.
 - Secondly, When you open project please first run RoleRepositoryTests.class and secondly run UserRepositoryTests.class.
